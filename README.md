@@ -1,12 +1,10 @@
 ## Hi there 👋 welcome to my github. I'm an aspiring AI researcher 🤖 with focus on Computer Vision 👁. Currently, I'm working on:
-- Core Computer Science 🧠
 - Machine Learning 🤖
-- Deep Learning 🎛
+- Deep Learning 🧠
 - Computer Vision 👁
-- Natural Language Processing 🗣
+- Data Structures and Algorithms 🎛
 - Research 📄
-- Programming Languages ⌨
-- Web Development 🖥
+
 
 ## You can follow me on : 
 [![Twitter](https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=twitter&labelColor=lightgrey)](https://twitter.com/PrasadN24)
