@@ -3,10 +3,6 @@
 - Deep Learning 🧠
 - Computer Vision 👁
 - Data Structures and Algorithms 🎛
-- Research 📄
-- Cloud Computing
-- Programming Languages
-- Databases
 
 ## You can follow me on : 
 [![Twitter](https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=twitter&labelColor=lightgrey)](https://twitter.com/PrasadN24)
