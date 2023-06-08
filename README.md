@@ -1,7 +1,9 @@
 ## Hi there 👋 welcome to my github. I'm an aspiring AI researcher 🤖 with focus on Computer Vision 👁. Currently, I'm working on:
 - Machine Learning 🤖
 - Deep Learning 🧠
+- Image Processing 🌅
 - Computer Vision 👁
+- Natural Language Processing 🗣️
 - Data Structures and Algorithms 🎛
 
 ## You can follow me on : 
