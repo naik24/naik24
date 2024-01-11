@@ -18,7 +18,7 @@
  
 ## Experience
 
-Graduate Research Assistant, Integrated Spatial Modeling And Remote Sensing Technologies Laboratory, Stevens Institute of Technology (Sep 2023 - Dec 2023)
+Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing Technologies Laboratory <br> Stevens Institute of Technology (Sep 2023 - Dec 2023)*
   - Developed computer vision algorithm to predict accumulation of ice in rivers
   - Fetched bands from satellite database using FTP
   - Processed the bands using Python and OpenCV
