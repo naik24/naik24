@@ -4,7 +4,7 @@
 
 ### Stevens Institute of Technology, Hoboken, NJ, USA
 
-- Major: MS Computer Science (Expected May 2024) (GPA: 3.791)
+- Major: MS Computer Science (Expected May 2024) (GPA: 3.77)
 - Coursework:
   - CS 515: Fundamentals of Computing
   - CS 550: Computer Organization and Programming
