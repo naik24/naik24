@@ -2,7 +2,7 @@
 
 ## Education
 
-<p align = "center"><img src = "https://github.com/naik24/naik24/assets/69704762/6d6241eb-bbc8-4cec-94e8-03f0f0e807e2"></p> 
+### Stevens Institute of Technology, Hoboken, NJ, USA
 
 - Major: MS Computer Science (Expected May 2024) (GPA: 3.791)
 - Coursework:
@@ -32,19 +32,22 @@ Graduate Research Assistant, Integrated Spatial Modeling And Remote Sensing Tech
 </p>
 
 ## Tech Stack
-<img src = "https://github.com/naik24/naik24/assets/69704762/1a40f8b1-9fd7-4277-a226-00e484feb919">
-<img src = "https://github.com/naik24/naik24/assets/69704762/c8558e6e-ae79-46c2-afe5-001a2e979c3f">
-<img src = "https://github.com/naik24/naik24/assets/69704762/ce96784e-ad46-4537-ab29-0502caa42cb5">
 
-<img width="1145" alt="image" src="https://github.com/naik24/Semantic-Segmentation-for-Self-Driving-Cars/assets/69704762/9fbf2341-0bc8-43cd-88f9-eee3920d36d7">
-<img src = "https://github.com/naik24/naik24/assets/69704762/6bee08c0-06ca-4b85-9bb7-4f0042e3fcc1"> <img src = "https://github.com/naik24/naik24/assets/69704762/690a14c1-a9a2-4b07-b981-017902c95d9e">
-<img src = "https://github.com/naik24/naik24/assets/69704762/3dbc073d-2fc7-47a2-b611-d8503006bee7">
-
-<img src = "https://github.com/naik24/naik24/assets/69704762/69f4de3a-c37a-49dd-aa69-0e966dc57e5c">
-<img src = "https://github.com/naik24/naik24/assets/69704762/0e14758a-f68e-45a7-adb4-17e44932bbfa">
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ScikitImage](https://img.shields.io/badge/Scikit--Image-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
