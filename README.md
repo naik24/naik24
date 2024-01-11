@@ -19,11 +19,10 @@
 ## Experience
 
 Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing Technologies Laboratory <br> Stevens Institute of Technology (Sep 2023 - Dec 2023)*
-  - Developed computer vision algorithm to predict accumulation of ice in rivers
-  - Fetched bands from satellite database using FTP
-  - Processed the bands using Python and OpenCV
-  - Built a U-Net convolutional neural network using Tensorflow and Keras
-  - The U-Net segments a satellite image into different areas such as landcover, river ice, flood water, etc.
+- Conducted research as a Graduate Research Assistant, focusing on integrating spatial modeling and remote sensing techniques.
+- Developed a computer vision algorithm predicting ice accumulation in rivers across the USA by utilizing satellite imagery and implementing a U-Net convolutional neural network.
+- Extracted satellite bands through FTP, processed data using Python and OpenCV, demonstrating proficiency in handling large-scale remote sensing datasets.
+- Contributed to practical applications by providing a predictive model for river ice accumulation, aiding local authorities in river transport management and public alert systems.
 
 ## Concentrations
 
