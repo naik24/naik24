@@ -34,6 +34,8 @@ Research Assistant, Integrated Spatial Modeling And Remote Sensing Technologies 
 ## Tech Stack
 <img src = "https://github.com/naik24/naik24/assets/69704762/1a40f8b1-9fd7-4277-a226-00e484feb919">
 <img src = "https://github.com/naik24/naik24/assets/69704762/c8558e6e-ae79-46c2-afe5-001a2e979c3f">
+<img src = "https://github.com/naik24/naik24/assets/69704762/ce96784e-ad46-4537-ab29-0502caa42cb5">
+
 <img width="1145" alt="image" src="https://github.com/naik24/Semantic-Segmentation-for-Self-Driving-Cars/assets/69704762/9fbf2341-0bc8-43cd-88f9-eee3920d36d7">
 <img src = "https://github.com/naik24/naik24/assets/69704762/6bee08c0-06ca-4b85-9bb7-4f0042e3fcc1"> <img src = "https://github.com/naik24/naik24/assets/69704762/690a14c1-a9a2-4b07-b981-017902c95d9e">
 <img src = "https://github.com/naik24/naik24/assets/69704762/3dbc073d-2fc7-47a2-b611-d8503006bee7">
