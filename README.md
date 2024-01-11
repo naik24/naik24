@@ -23,7 +23,7 @@ Research Assistant, Integrated Spatial Modeling And Remote Sensing Technologies 
   - Fetched bands from satellite database using FTP
   - Processed the bands using Python and OpenCV
   - Built a U-Net convolutional neural network using Tensorflow and Keras
-  - The U-Net segments satellite images into different areas such as landcover, river ice, flood water, etc.
+  - The U-Net segments a satellite image into different areas such as landcover, river ice, flood water, etc.
 
 ## Projects
 
