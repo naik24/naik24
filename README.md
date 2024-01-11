@@ -25,11 +25,9 @@ Graduate Research Assistant, Integrated Spatial Modeling And Remote Sensing Tech
   - Built a U-Net convolutional neural network using Tensorflow and Keras
   - The U-Net segments a satellite image into different areas such as landcover, river ice, flood water, etc.
 
-## Projects
+## Concentrations
 
-<p align = "center">
-<a href = "https://github.com/naik24/ImageProcessing-ComputerVision?tab=readme-ov-file#digital-image-processing"><img width="212" alt="image" src="https://github.com/naik24/naik24/assets/69704762/a7145ee0-3dff-4e85-ac11-9bfd0664f003"></a>
-</p>
+[![IPCV](https://img.shields.io/badge/Image%20Processing%20And%20Computer%20Vision-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision?tab=readme-ov-file#digital-image-processing)
 
 ## Tech Stack
 
