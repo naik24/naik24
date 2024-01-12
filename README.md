@@ -26,7 +26,7 @@ Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing
 
 ## Concentrations
 
-[![IPCV](https://img.shields.io/badge/Image%20Processing%20And%20Computer%20Vision-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision?tab=readme-ov-file#digital-image-processing)
+[![IPCV](https://img.shields.io/badge/Image%20Processing%20And%20Computer%20Vision-Access--Projects--Here-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision?tab=readme-ov-file#digital-image-processing)
 
 ## Tech Stack
 
