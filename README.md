@@ -15,6 +15,9 @@
   - CPE 521: Introduction to Autonomous Mobile Robots
   - CS 558: Computer Vision
   - CS 583: Deep Learning
+  - CS 532: 3D Computer Vision
+  - EE 553: Engineering Programming in C++
+  - AAI 695: Applied Machine Learning
  
 ## Experience
 
