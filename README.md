@@ -1,4 +1,4 @@
-# <p align = "center">Prasad Naik</p>
+# <p align = "center"><a href = "https://naik24.github.io/">Prasad Naik</a></p>
 
 ## Education
 
