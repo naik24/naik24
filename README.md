@@ -27,10 +27,6 @@ Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing
 - Extracted satellite bands through FTP, processed data using Python and OpenCV, demonstrating proficiency in handling large-scale remote sensing datasets.
 - Contributed to practical applications by providing a predictive model for river ice accumulation, aiding local authorities in river transport management and public alert systems.
 
-## Concentrations
-
-[![IPCV](https://img.shields.io/badge/Image%20Processing%20And%20Computer%20Vision-Access--Projects--Here-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision?tab=readme-ov-file#digital-image-processing)
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
