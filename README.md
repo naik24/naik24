@@ -28,12 +28,21 @@
 <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Soccer%20Object%20Detection"><img src = "https://github.com/user-attachments/assets/6946a005-565c-4810-9b26-5db05a2e5354" width="200" height="200"></a>
 <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Voxel%20Based%203D%20Reconstruction#voxel-based-3d-reconstruction-"><img src = "https://github.com/user-attachments/assets/813196e4-fb58-420b-a657-0ac33a3cce47" width="200" height="200"></a>
 
+### <p align = "center">More Projects</p>
+
+<p align = "center">
+  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Brain%20Tumor%20Detection"><img src = "https://img.shields.io/badge/Brain%20Tumor%20Detection-FFFFFF?style=for-the-badge&logoColor=black"></a>
+  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Feature%20Extraction%20and%20Keypoint%20Matching"><img src = "https://img.shields.io/badge/Feature%20Extraction%20And%20KeyPoint%20Matching-FFFFFF?style=for-the-badge&logoColor=black"></a>
+  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/SLIC"><img src = "https://img.shields.io/badge/Simple%20Linear%20Iterative%20Clustering-FFFFFF?style=for-the-badge&logoColor=black"></a>
+  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Image%20Data%20Association"><img src = "https://img.shields.io/badge/Image%20Data%20Association-FFFFFF?style=for-the-badge&logoColor=black"></a>
+</p>
+
 ## Repositories
 <p align = "center">
-  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master?tab=readme-ov-file#digital-image-processing"><img src = "https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href = "https://github.com/naik24/Professor-Bean"><img src = "https://img.shields.io/badge/professor%20bean-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href = "https://github.com/naik24/MachineLearning"><img src = "https://img.shields.io/badge/machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href = "https://github.com/naik24/Algorithms-DataStructure"><img src = "https://img.shields.io/badge/C++%20algorithms-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master?tab=readme-ov-file#digital-image-processing"><img src = "https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=red"></a>
+  <a href = "https://github.com/naik24/Professor-Bean"><img src = "https://img.shields.io/badge/professor%20bean-121013?style=for-the-badge&logo=github&logoColor=green"></a>
+  <a href = "https://github.com/naik24/MachineLearning"><img src = "https://img.shields.io/badge/machine%20learning-121013?style=for-the-badge&logo=github&logoColor=yellow"></a>
+  <a href = "https://github.com/naik24/Algorithms-DataStructure"><img src = "https://img.shields.io/badge/C++%20algorithms-121013?style=for-the-badge&logo=github&logoColor=cyan"></a>
 </p>
 
 
