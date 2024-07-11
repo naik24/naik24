@@ -29,4 +29,4 @@
 <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Voxel%20Based%203D%20Reconstruction#voxel-based-3d-reconstruction-"><img src = "https://github.com/user-attachments/assets/813196e4-fb58-420b-a657-0ac33a3cce47" width="200" height="200"></a>
 
 ## Repositories
-![Image Processing and Computer Vision](https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=white)
+[![Image Processing and Computer Vision](https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision/tree/master?tab=readme-ov-file#digital-image-processing)
