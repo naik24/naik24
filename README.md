@@ -30,3 +30,9 @@
 
 ## Repositories
 [![Image Processing and Computer Vision](https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik24/ImageProcessing-ComputerVision/tree/master?tab=readme-ov-file#digital-image-processing)
+[![Professor Bean](https://img.shields.io/badge/professor%20bean-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik24/MachineLearning)
+[![C++ Data Structures and Algos](https://img.shields.io/badge/C++%20algorithms-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik24/Professor-Bean)
+[![Machine Learning](https://img.shields.io/badge/machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik24/Professor-Bean)
+
+
+
