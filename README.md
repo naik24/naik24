@@ -1,34 +1,7 @@
 # <p align = "center"><a href = "https://naik24.github.io/">Prasad Naik</a></p>
-
-## Education
-
-### Stevens Institute of Technology, Hoboken, NJ, USA
-
-- Major: MS Computer Science (Expected May 2024) (GPA: 3.77)
-- Coursework:
-  - CS 515: Fundamentals of Computing
-  - CS 550: Computer Organization and Programming
-  - CS 570: Intro to Programming, Data Structures, and Algorithms
-  - CS 556: Mathematical Foundations of Machine Learning
-  - CS 559: Machine Learning Fundamentals and Applications
-  - CS 590: Algorithms
-  - CPE 521: Introduction to Autonomous Mobile Robots
-  - CS 558: Computer Vision
-  - CS 583: Deep Learning
-  - CS 532: 3D Computer Vision
-  - EE 553: Engineering Programming in C++
-  - AAI 695: Applied Machine Learning
- 
-## Experience
-
-Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing Technologies Laboratory <br> Stevens Institute of Technology (Sep 2023 - Dec 2023)*
-- Conducted research as a Graduate Research Assistant, focusing on integrating spatial modeling and remote sensing techniques.
-- Developed a computer vision algorithm predicting ice accumulation in rivers across the USA by utilizing satellite imagery and implementing a U-Net convolutional neural network.
-- Extracted satellite bands through FTP, processed data using Python and OpenCV, demonstrating proficiency in handling large-scale remote sensing datasets.
-- Contributed to practical applications by providing a predictive model for river ice accumulation, aiding local authorities in river transport management and public alert systems.
+## <p align = "center">Building an Intelligent Future by Transforming Pixels into Possibilities</p>
 
 ## Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -47,3 +20,11 @@ Graduate Research Assistant <br> *Integrated Spatial Modeling And Remote Sensing
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+## Featured Projects
+<p align = "center">
+<a href = "https://github.com/naik24/Professor-Bean"><img src = "https://github.com/user-attachments/assets/0b25afb6-fba4-40f3-b924-5dc7409fdabc" width="200" height="200"></a>
+<a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/EuroSAT%20Landcover%20Classification"><img src = "https://github.com/user-attachments/assets/9b82a0de-5c26-4d1e-9ac8-2f0aba1aa5b5" width="201" height="201"></a>
+<a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Soccer%20Object%20Detection"><img src = "https://github.com/user-attachments/assets/6946a005-565c-4810-9b26-5db05a2e5354" width="200" height="200"></a>
+<a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Voxel%20Based%203D%20Reconstruction#voxel-based-3d-reconstruction-"><img src = "https://github.com/user-attachments/assets/813196e4-fb58-420b-a657-0ac33a3cce47" width="200" height="200"></a>
+
