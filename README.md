@@ -1,9 +1,19 @@
 # <p align = "center">Prasad Naik</p>
 ## <p align = "center">Building an Intelligent Future by Transforming Pixels into Possibilities</p>
 
+## About Me
+
+🤖 Working on building robust AI systems
+
+👁️ Focusing on Computer Vision and Generative AI
+
+🎒 Looking for my next adventure. Hit me up 📨 prasadnaik2499@gmail.com
+
+
 ## Technical Skills
 
 <p align = "center">
+  <a href = "#"><img src = "https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/matlab-D56B1D?style=for-the-badge&logoColor=white"></a>
