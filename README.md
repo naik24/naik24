@@ -1,6 +1,11 @@
 # <p align = "center">Prasad Naik</p>
 ## <p align = "center">Building an Intelligent Future by Transforming Pixels into Possibilities</p>
 
+<p align = "center">
+  <a href = "https://naik24.github.io/"><img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href = "https://www.linkedin.com/in/prasad-naik-pan2499/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 ## About Me
 
 🤖 Working on building robust AI systems
