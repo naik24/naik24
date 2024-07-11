@@ -4,6 +4,7 @@
 <p align = "center">
   <a href = "https://naik24.github.io/"><img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href = "https://www.linkedin.com/in/prasad-naik-pan2499/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://drive.google.com/file/d/1dYkzUbUc4pu5zY_GO9Gzcr6u3k5eCq-O/view?usp=sharing"><img src = "https://img.shields.io/badge/Resume-F3F1EA?style=for-the-badge&logoColor=372213"></a>
 </p>
 
 ## About Me
