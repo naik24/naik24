@@ -28,3 +28,5 @@
 <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Soccer%20Object%20Detection"><img src = "https://github.com/user-attachments/assets/6946a005-565c-4810-9b26-5db05a2e5354" width="200" height="200"></a>
 <a href = "https://github.com/naik24/ImageProcessing-ComputerVision/tree/master/Voxel%20Based%203D%20Reconstruction#voxel-based-3d-reconstruction-"><img src = "https://github.com/user-attachments/assets/813196e4-fb58-420b-a657-0ac33a3cce47" width="200" height="200"></a>
 
+## Repositories
+![Image Processing and Computer Vision](https://img.shields.io/badge/image%20processing%20and%20computer%20vision-121013?style=for-the-badge&logo=github&logoColor=white)
