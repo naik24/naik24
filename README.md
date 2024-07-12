@@ -11,7 +11,7 @@
 
 🤖 Working on building robust AI systems
 
-👁️ Focusing on Computer Vision and Generative AI
+👁️ Focusing on Computer Vision, Vision Language Models, and Generative AI
 
 🎒 Looking for my next adventure. Hit me up 📨 prasadnaik2499@gmail.com
 
