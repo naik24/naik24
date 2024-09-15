@@ -62,6 +62,7 @@
   <a href = "https://github.com/naik24/Professor-Bean"><img src = "https://img.shields.io/badge/professor%20bean-121013?style=for-the-badge&logo=github&logoColor=green"></a>
   <a href = "https://github.com/naik24/MachineLearning"><img src = "https://img.shields.io/badge/machine%20learning-121013?style=for-the-badge&logo=github&logoColor=yellow"></a>
   <a href = "https://github.com/naik24/Algorithms-DataStructure"><img src = "https://img.shields.io/badge/C++%20algorithms-121013?style=for-the-badge&logo=github&logoColor=cyan"></a>
+  <a href = "https://github.com/naik24/Natural-Language-Processing"><img src = "https://img.shields.io/badge/natural%20language%20processing-121013?style=for-the-badge&logo=github&logoColor=blue"></a>
 </p>
 
 
