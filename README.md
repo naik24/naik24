@@ -1,27 +1,21 @@
 # <p align = "center">Prasad Naik</p>
 
 <p align = "center">
-  <a href = "https://naik24.github.io/"><img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139"></a>
   <a href = "https://www.linkedin.com/in/prasad-naik-pan2499/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://drive.google.com/file/d/1P3vDkqex3PNm9i9B716J2AROr02maGhf/view?usp=sharing"><img src = "https://img.shields.io/badge/Resume-F3F1EA?style=for-the-badge&logoColor=372213"></a>
 </p>
 
-## About Me
-
-🤖 Working on building robust AI systems
-
-👁️ Focusing on Computer Vision, Vision Language Models, and Generative AI
-
-🎒 Looking for my next adventure. Hit me up 📨 prasadnaik2499@gmail.com
-
-
 ## Technical Skills
 
-<p align = "center">
-  <a href = "#"><img src = "https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
+  <p align = "center">  
   <a href = "#"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/matlab-D56B1D?style=for-the-badge&logoColor=white"></a>
+  </p>
+
+  <a href = "#"><img src = "https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
+
+  <p align = "center">
   <a href = "#"><img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white"></a>
@@ -36,7 +30,20 @@
   <a href = "#"><img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-</p>
+  </p>
+
+
+
+## About Me
+
+🤖 Working on building robust AI systems
+
+👁️ Focusing on Computer Vision, Vision Language Models, and Generative AI
+
+🎒 Looking for my next adventure. Hit me up 📨 prasadnaik2499@gmail.com
+
+
+
 
 
 ## Featured Projects
