@@ -7,13 +7,16 @@
 
 ## Technical Skills
 
-  <p align = "center">  
+  <p align = "center">
   <a href = "#"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/matlab-D56B1D?style=for-the-badge&logoColor=white"></a>
   </p>
 
-  <a href = "#"><img src = "https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
+  <p align = "center">
+  <a href = "#"><img src = "https://img.shields.io/badge/Large%20Language%20Models-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
+  <a href = "#"><img src = "https://img.shields.io/badge/Vision%20Language%20Models-%23FF6F00.svg?style=for-the-badge&logoColor=white"></a>
+  </p>
 
   <p align = "center">
   <a href = "#"><img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
@@ -28,23 +31,23 @@
   <a href = "#"><img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
+  </p>
+
+  <p align = "center">
   <a href = "#"><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href = "#"><img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   </p>
 
 
-
 ## About Me
 
-🤖 Working on building robust AI systems
+(2017 - 2021) 🎒 Bachelor of Engineering, Electronics and Telecommunication, University of Mumbai, India
 
-👁️ Focusing on Computer Vision, Vision Language Models, and Generative AI
+(2021 - 2022) 💼 Senior Cybersecurity Consultant, LTI Mindtree, India
 
-🎒 Looking for my next adventure. Hit me up 📨 prasadnaik2499@gmail.com
+(2022 - 2024) 🎒 MS Computer Science, Stevens Institute of Technology, USA
 
-
-
-
+(2023) 💼 Computer Vision Research Assistant, Stevens Institute of Technology
 
 ## Featured Projects
 <p align = "center">
