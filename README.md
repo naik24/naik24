@@ -1,5 +1,4 @@
 # <p align = "center">Prasad Naik</p>
-## <p align = "center">Building an Intelligent Future by Transforming Pixels into Possibilities</p>
 
 <p align = "center">
   <a href = "https://naik24.github.io/"><img src = "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139"></a>
